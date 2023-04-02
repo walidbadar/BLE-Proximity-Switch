@@ -2,7 +2,7 @@
 /*
  * 
  * This detects advertising messages of BLE devices and compares it with stored MAC addresses. 
- * If one matches, it sends an MQTT message to swithc something
+ * If one matches, it will switch esp32 gpio
  */
 
 
